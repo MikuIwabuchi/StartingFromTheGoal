@@ -1,0 +1,10 @@
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\bin\Debug\WeekOfDay.exe.config
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\bin\Debug\WeekOfDay.exe
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\bin\Debug\WeekOfDay.pdb
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\obj\Debug\WeekOfDay.csprojAssemblyReference.cache
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\obj\Debug\WeekOfDay.Form1.resources
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\obj\Debug\WeekOfDay.Properties.Resources.resources
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\obj\Debug\WeekOfDay.csproj.GenerateResource.cache
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\obj\Debug\WeekOfDay.csproj.CoreCompileInputs.cache
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\obj\Debug\WeekOfDay.exe
+C:\Users\razar\source\repos\WeekOfDay\WeekOfDay\obj\Debug\WeekOfDay.pdb
